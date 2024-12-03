@@ -1,0 +1,2 @@
+# pojet-big-data
+Ce projet consiste à développer un chatbot intelligent destiné à fournir des réponses pertinentes et concises sur les questions dans le domaine de santé. Il s'appuie sur des données provenant d'une base de données de Kaggle et utilise PySpark pour le traitement et le nettoyage des données, ainsi que des modèles de traitement du langage naturel (NLP) pour la génération des réponses. L'application finale est une interface interactive créée avec Gradio, permettant aux utilisateurs d'interagir directement avec le chatbot.
